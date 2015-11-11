@@ -3,7 +3,7 @@ package set
 import (
 	"io"
 
-	"github.com/clipperhouse/typewriter"
+	"github.com/rickb777/typewriter"
 )
 
 func init() {

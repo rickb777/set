@@ -1,6 +1,6 @@
 package set
 
-import "github.com/clipperhouse/typewriter"
+import "github.com/rickb777/typewriter"
 
 var templates = typewriter.TemplateSlice{
 	set,
